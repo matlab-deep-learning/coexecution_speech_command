@@ -1,4 +1,4 @@
-# PyTorch and TensorFlow Co-Execution for Speech Command Recognition
+# PyTorch and TensorFlow Co-Execution for Training a Speech Command Recognition System
 This repo provides examples of co-executing MATLAB&reg; with TensorFlow and PyTorch to train a speech command recognition system.
 
 ![Interop image](images/InteropImage.png)
