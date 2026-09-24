@@ -20,7 +20,7 @@ To accelerate training, a GPU and the following toolbox is recommended:
 This repo includes two co-execution examples, with additional requirements.
 ### ``CallMATLABFromPythonPytorch.mlx``
 - [PyTorch](https://pytorch.org/) (tested with version 1.9.0) and [NumPy](https://numpy.org/) (tested with 1.21.1)
-- [MATLAB Engine API](https://www.mathworks.com/help/matlab/matlab_external/install-matlab-engine-api-for-python-in-nondefault-locations.html)
+- [MATLAB Engine API](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 ### ``CallPythonTensorFlowFromMATLAB.mlx``
 - [TensorFlow](https://www.tensorflow.org/) (tested with version 2.0.0)
 - [Configured Python interpreter](https://www.mathworks.com/help/matlab/ref/pyenv.html)
